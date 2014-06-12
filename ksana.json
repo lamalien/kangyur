@@ -1,0 +1,11 @@
+{
+ "name": "kangyur",
+ "author": "yourname",
+ "template": "tibetan",
+ "desc": "",
+ "ydbmeta": {
+  "config": "tibetan1",
+  "outputencoding": "ucs2",
+  "estimatesize": 16777216
+ }
+}

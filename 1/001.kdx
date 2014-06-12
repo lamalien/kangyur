@@ -1,0 +1,65 @@
+[
+{"name":"xml","type":"start","seq":0,"sunit":0,"soff":1,"eunit":628,"eoff":1859}
+,{"name":"stitle","type":"start","attr":{"zh":"1.3"},"seq":1,"sunit":1,"soff":17,"eoff":29}
+,{"name":"ttitle","type":"start","attr":{"zh":"1.3"},"seq":1,"sunit":1,"soff":42,"eoff":53}
+,{"name":"bambo","type":"emtpy","attr":{"n":"1"," zh":"1.3"},"seq":1,"sunit":1,"soff":55}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.3"," title":"རབ་ཏུ་འབྱུང་བའི་གཞི་འཆད་པ"},"seq":2,"sunit":2,"soff":203}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.3"," title":"ཤཱ་རིའི་བུའི་སྡེ་ཚན"},"seq":2,"sunit":2,"soff":232}
+,{"name":"bambo","type":"emtpy","attr":{"n":"2"," zh":"1.35"},"seq":32,"sunit":32,"soff":1353}
+,{"name":"bambo","type":"emtpy","attr":{"n":"3"," zh":"1.56"},"seq":53,"sunit":53,"soff":595}
+,{"name":"bambo","type":"emtpy","attr":{"n":"4"," zh":"1.79"},"seq":73,"sunit":73,"soff":444}
+,{"name":"bambo","type":"emtpy","attr":{"n":"5"," zh":"1.105"},"seq":96,"sunit":96,"soff":217}
+,{"name":"bambo","type":"emtpy","attr":{"n":"6"," zh":"1.149"},"seq":132,"sunit":132,"soff":1440}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.168","/ title":"མུ་སྟེགས་ཅན་གྱི་སྡེ་ཚན"},"seq":148,"sunit":148,"soff":1264}
+,{"name":"bambo","type":"emtpy","attr":{"n":"7"," zh":"1.176"},"seq":156,"sunit":156,"soff":80}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.176"," title":"ད་གེ་ཚུལ་གཉིས་ཀྱི་སྡེ་ཚན"},"seq":156,"sunit":156,"soff":94}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.192"," title":"བྱ་རོག་སྐྲོད་ཀྱི་སྡེ་ཚན"},"seq":173,"sunit":173,"soff":1368}
+,{"name":"bambo","type":"emtpy","attr":{"n":"8"," zh":"1.204"},"seq":179,"sunit":179,"soff":1058}
+,{"name":"bambo","type":"emtpy","attr":{"n":"9"," zh":"1.232"},"seq":203,"sunit":203,"soff":738}
+,{"name":"bambo","type":"emtpy","attr":{"n":"10"," zh":"1.260"},"seq":228,"sunit":228,"soff":171}
+,{"name":"bambo","type":"emtpy","attr":{"n":"11"," zh":"1.291"},"seq":254,"sunit":254,"soff":463}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.299"," title":"དགྲ་བཅོམ་བསད་པའི་སྡེ་ཚན"},"seq":261,"sunit":261,"soff":593}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.305"," title":"ལག་རྡུམ་གྱི་སྡེ་ཚན"},"seq":266,"sunit":266,"soff":329}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.308"," title":"གསོ་སྦྱོང་གི་གཞི་འཆད་པ"},"seq":268,"sunit":268,"soff":923}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.308"," title":"མུ་སྟེགས་ཅན་གྱི་སྡེ་ཚན"},"seq":268,"sunit":268,"soff":1005}
+,{"name":"bambo","type":"emtpy","attr":{"n":"12"," zh":"1.323"},"seq":281,"sunit":281,"soff":895}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.323"," title":"ཀ་བི་ནའི་སྡེ་ཚན"},"seq":281,"sunit":281,"soff":913}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.346"," title":"གནས་ཀྱི་སྡེ་ཚན"},"seq":302,"sunit":302,"soff":149}
+,{"name":"bambo","type":"emtpy","attr":{"n":"13"," zh":"1.357"},"seq":311,"sunit":311,"soff":416}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.357"," title":"རྒྱལ་པོའི་སྡེ་ཚན"},"seq":311,"sunit":311,"soff":434}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.323"," title":"སྦྱར་བ་མང་པོའི་སྡེ་ཚན"},"seq":325,"sunit":325,"soff":646}
+,{"name":"bambo","type":"emtpy","attr":{"n":"14"," zh":"1.387"},"seq":338,"sunit":338,"soff":332}
+,{"name":"bambo","type":"emtpy","attr":{"n":"15"," zh":"1.414"},"seq":363,"sunit":363,"soff":1357}
+,{"name":"bambo","type":"emtpy","attr":{"n":"16"," zh":"1.448"},"seq":394,"sunit":394,"soff":1197}
+,{"name":"bambo","type":"emtpy","attr":{"n":"17"," zh":"1.481"},"seq":424,"sunit":424,"soff":516}
+,{"name":"bambo","type":"emtpy","attr":{"n":"18"," zh":"1.509"},"seq":449,"sunit":449,"soff":160}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.512"," title":"དགག་དབྱེའི་གཞྭི་འཆད་པ"},"seq":455,"sunit":455,"soff":1153}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.512"," title":"དགག་ད་བྱེའི་སྡེ་ཚན"},"seq":455,"sunit":455,"soff":1249}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.529"," title":"ཆོས་མིན་གྱི་སྡེ་ཚན"},"seq":466,"sunit":466,"soff":324}
+,{"name":"bambo","type":"emtpy","attr":{"n":"19"," zh":"1.541"},"seq":476,"sunit":476,"soff":1417}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.542"," title":"དགེ་སློང་གི་སྡེ་ཚན"},"seq":479,"sunit":479,"soff":322}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.549"," title":"ཟློས་པའི་སྡེ་ཚན"},"seq":484,"sunit":484,"soff":1112}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.550"," title":"དབྱར་གྱི་སྡེ་ཚན"},"seq":485,"sunit":485,"soff":581}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.553"," title":"དབྱར་གནས་ཀྱི་གཞི་འཆད་པ"},"seq":487,"sunit":487,"soff":1526}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.553"," title":"དབྱར་གནས་ཀྱི་སྡེ་ཚན"},"seq":488,"sunit":488,"soff":130}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.570"," title":"ཟས་ཀྱི་སྡེ་ཚན"},"seq":502,"sunit":502,"soff":65}
+,{"name":"bambo","type":"emtpy","attr":{"n":"20"," zh":"1.571"},"seq":502,"sunit":502,"soff":1493}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.582"," title":"དབྱར་ར་ལ་བའི་སྡེ་ཚན"},"seq":512,"sunit":512,"soff":361}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.585"," title":"ཀོ་ལྔགས་ཀྱི་གཞི་འཆད་པ"},"seq":515,"sunit":515,"soff":424}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.585"," title":"ལྔས་ནི་བསྙེན་པར་རྫོགས་པ་དང་ཞེས་པའི་སྡེ་ཚན"},"seq":515,"sunit":515,"soff":424}
+,{"name":"bambo","type":"emtpy","attr":{"n":"21"," zh":"1.601"},"seq":528,"sunit":528,"soff":814}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.622"," title":"གནས་མལ་ཆེ་བའི་སྡེ་ཚན།"},"seq":546,"sunit":546,"soff":1124}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.624"," title":"བེའུའི་སྡེ་ཚན།"},"seq":548,"sunit":548,"soff":1347}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.622"," title":"བཞོན་པའི་སྡེ་ཚན"},"seq":550,"sunit":550,"soff":1277}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.629"," title":"ཁྲུས་ཀྱི་སྡེ་ཚན"},"seq":552,"sunit":552,"soff":943}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.631"," title":"བའི་མཇུག་མའི་སྡེ་ཚན།"},"seq":554,"sunit":554,"soff":172}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.632"," title":"ཤིང་ལྷམ་རི་མོ་ཅན་གྱི་སྡེ་ཚན།"},"seq":555,"sunit":555,"soff":67}
+,{"name":"bambo","type":"emtpy","attr":{"n":"22"," zh":"1.633"},"seq":556,"sunit":556,"soff":14}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.633"," title":"སྨྱག་མའི་ལོ་མ་སོགས་ཀྱི་སྡེ་ཚན"},"seq":556,"sunit":556,"soff":34}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.641"," title":"མགུལ་ཆད་སོགས་ཀྱི་སྡེ་ཚན།"},"seq":562,"sunit":562,"soff":1345}
+,{"name":"shi","type":"emtpy","attr":{"zh":"1.644"," title":"སྨན་གྱི་གཞི་འཆད་པ།"},"seq":566,"sunit":566,"soff":423}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.646"," title":"སྨན་གྱི་སྡེ་ཚན"},"seq":566,"sunit":566,"soff":623}
+,{"name":"detshen","type":"emtpy","attr":{"zh":"1.660"," title":"སྡེ་ཆེན་གྱི་སྡེ་ཚན"},"seq":577,"sunit":577,"soff":1476}
+,{"name":"bambo","type":"emtpy","attr":{"n":"23"," zh":"1.662"},"seq":580,"sunit":580,"soff":14}
+,{"name":"bambo","type":"emtpy","attr":{"n":"24"," zh":"1.692"},"seq":605,"sunit":605,"soff":337}
+]
